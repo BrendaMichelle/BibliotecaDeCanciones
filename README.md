@@ -1,2 +1,2 @@
-# BibliotecaDeCanciones
-Diseño de una biblioteca de canciones &amp; Implementación con GUI
+# Song Library
+Song Library Design & Implementation with GUI
